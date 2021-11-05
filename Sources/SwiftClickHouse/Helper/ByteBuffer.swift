@@ -90,6 +90,6 @@ class ByteBuffer {
     }
 
     func toData() -> Data {
-        return Data(bytes : self.data);
+        return Data(self.data);
     }
 }

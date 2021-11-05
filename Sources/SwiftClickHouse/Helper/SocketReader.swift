@@ -33,7 +33,6 @@ class SocketReader {
                 let arr: [UInt8] = data.withUnsafeBytes {
                     [UInt8](UnsafeBufferPointer(start: $0, count: data.count))
                 }
-
                 self.data += arr;
                 return true;
             }
