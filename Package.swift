@@ -17,7 +17,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/IBM-Swift/SwiftyJSON", .upToNextMajor(from: "17.0.0")),
-        .package(url: "https://github.com/IBM-Swift/BlueSocket", .upToNextMajor(from: "2.0.0"))
+        .package(url: "https://github.com/iWECon/BlueSocket", .branch("master"))
     ],
     targets: [
         .target(

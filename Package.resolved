@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "Socket",
-        "repositoryURL": "https://github.com/IBM-Swift/BlueSocket",
+        "repositoryURL": "https://github.com/iWECon/BlueSocket",
         "state": {
-          "branch": null,
-          "revision": "dd924c3bc2c1c144c42b8dda3896f1a03115ded4",
-          "version": "2.0.2"
+          "branch": "master",
+          "revision": "7063ffd86a730f0965b86d9ba843b5f139ece022",
+          "version": null
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/apple/swift-argument-parser",
         "state": {
           "branch": null,
-          "revision": "6b2aa2748a7881eebb9f84fb10c01293e15b52ca",
-          "version": "0.5.0"
+          "revision": "d2930e8fcf9c33162b9fcc1d522bc975e2d4179b",
+          "version": "1.0.1"
         }
       },
       {
